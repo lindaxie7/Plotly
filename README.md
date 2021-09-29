@@ -4,7 +4,7 @@ For volunteers who are interested in selling their bacteria to Improbable Beef, 
 Some of them will be suitable for synthetic beef production, while others will not. In this project, we will use plotly to identify the top 10 bacterial species as a candidate to manufacture synthetic beef. 
 
 ## Results
-Here is the "charts" page: 
+Here is the "charts" page: https://lindaxie7.github.io/Plotly/
 
 
 
