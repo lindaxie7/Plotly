@@ -8,7 +8,7 @@ Here are the "charts" I created: https://lindaxie7.github.io/Plotly/
 
 
 
-## Tools and sources
+## Tools and resources used
 Plot.ly
 
 Javascript
