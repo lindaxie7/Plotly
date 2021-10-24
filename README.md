@@ -14,3 +14,21 @@ Here are the "charts" I created: https://lindaxie7.github.io/Plotly/
 -The bubble chart that displays the following when an individual’s ID is selected from the dropdown menu webpage: The otu_ids as the x-axis values. The sample_values as the y-axis values. The sample_values as the marker size. The otu_ids as the marker colors. The otu_labels as the hover-text values.
 
 -The gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
+
+## Tools and sources
+Plot.ly
+
+Javascript
+
+HTML
+
+D3.js
+
+JSON
+
+GitHub and GitHub Pages
+
+console.log
+
+Refered to the Plotly.js documentation when building my plots.
+
