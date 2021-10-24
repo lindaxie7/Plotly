@@ -26,9 +26,7 @@ D3.js
 
 JSON
 
-GitHub and GitHub Pages
-
 console.log
 
-Refered to the Plotly.js documentation when building my plots.
+https://plotly.com/javascript/
 
