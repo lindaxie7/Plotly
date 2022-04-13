@@ -6,8 +6,6 @@ Some of them will be suitable for synthetic beef production, while others will n
 ## Dashboard
 Here are the "charts" I created: https://lindaxie7.github.io/Plotly/
 
-
-
 ## Files
 
 ### HTML File
@@ -20,5 +18,4 @@ Here are the "charts" I created: https://lindaxie7.github.io/Plotly/
 ### Javascript File
 [Javascript File](https://github.com/lindaxie7/Plotly/blob/main/charts.js)
 
-### JSON File
-[JSON File](https://github.com/lindaxie7/Plotly/blob/main/charts.js)
+
