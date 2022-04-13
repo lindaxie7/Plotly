@@ -10,4 +10,13 @@ Here are the "charts" I created: https://lindaxie7.github.io/Plotly/
 
 ## Files
 
+### HTML File
+
+[HTML File](https://github.com/lindaxie7/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb)
+
+### CSS File
+[CSS File](https://github.com/lindaxie7/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
+
+### Javascript File
+[Javascript File](https://github.com/lindaxie7/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
 
