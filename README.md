@@ -12,7 +12,7 @@ Here are the "charts" I created: https://lindaxie7.github.io/Plotly/
 
 ### HTML File
 
-[HTML File](https://github.com/lindaxie7/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb)
+[HTML File](https://github.com/lindaxie7/Plotly/blob/main/index.html)
 
 ### CSS File
 [CSS File](https://github.com/lindaxie7/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
